@@ -174,3 +174,6 @@ cython_debug/
 .pypirc
 /ga_sessions.csv
 /ga_hits.csv
+
+# Uncompressed model files (use compressed .gz versions)
+dc_characters_best.cbm
